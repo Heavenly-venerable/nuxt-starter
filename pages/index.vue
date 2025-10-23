@@ -2,7 +2,7 @@
 
 <template>
   <div class="pt-24">
-    Hello Sweatie
+    Hello World!
   </div>
 </template>
 
